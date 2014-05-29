@@ -59,3 +59,17 @@ git
   git checkout [version] .
     - WARNING destructive
     - remove all unstaged changes and checks out version
+
+  git log
+  git log --oneline
+  git log --graph
+  git log --stat
+
+  git push
+    - pushes commits up to remote server
+  git push origin [branch name]
+    - pushes branch up to remote server
+  git push --tags
+    -pushes all tags up to remote server
+
+  git remove add [remote name] [remote address]
