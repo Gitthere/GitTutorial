@@ -30,3 +30,4 @@ git
       -adds all changes to this comit
     git commit -am "message"
       -adds all with message
+  
