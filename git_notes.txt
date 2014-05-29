@@ -24,4 +24,9 @@ git
     - git config --global core.editor sublime
     - git config --global --edit
 
-  
+  git commit
+    - saves version snapshot of repo
+    git commit -a
+      -adds all changes to this comit
+    git commit -am "message"
+      -adds all with message
