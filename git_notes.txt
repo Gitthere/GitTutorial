@@ -72,4 +72,4 @@ git
   git push --tags
     -pushes all tags up to remote server
 
-  git remove add [remote name] [remote address]
+  git remote add [remote name] [remote address]
