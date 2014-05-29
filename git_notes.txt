@@ -1,0 +1,13 @@
+commands
+
+vim
+  - quit               :q!
+  - write and quit     :wq!
+  --INSERT--   mode    [ i ]
+  exiting insert mode  [esc]
+
+
+git 
+
+  git init
+    -initializes an empty repo
