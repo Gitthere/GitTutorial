@@ -10,4 +10,18 @@ vim
 git 
 
   git init
-    -initializes an empty repo
+    - initializes an empty repo
+
+  git status
+    - look at state of repo
+
+  git add <file to be added>
+    - adds file to "staged changes"
+
+  git config
+    - git config --global user.name
+    - git config --global user.email
+    - git config --global core.editor sublime
+    - git config --global --edit
+
+  
